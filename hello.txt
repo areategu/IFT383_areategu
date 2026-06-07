@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hello GitHub!
-=======
-Hello GitHut!
-Adding more content!
->>>>>>> 17f8d1e (Updated hello.txt to add second line.)
+Hello Github!
